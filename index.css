@@ -2,15 +2,20 @@ body {
     background-color: #3C4F76;
 }
 
-h1 {
+h2 {
     font-family: 'Raleway', sans-serif;
+    color: #FFFEFF;
+    font-weight: normal;
 }
 
 h3 {
     font-family: 'Yantramanav', sans-serif;
+    color: #FFFEFF;
+    font-weight: lighter;
 }
 
 p {
     font-family: 'Yantramanav', sans-serif;
+    color: #CEE7E6;
 }
 
